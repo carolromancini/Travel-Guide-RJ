@@ -1,0 +1,141 @@
+/* add your css styles here! */
+.fakeimg {
+  height: 200px;
+}
+
+  
+h1 {
+  color:#065f25;
+  margin-top:50px;
+  margin-bottom:50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 50px;
+  text-align: center;
+}
+  h2 {
+    color:#041d5f;
+    margin-top:70px;
+    margin-bottom:70px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+  }
+ 
+  h3 {
+    color:#f8f9f9;
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+  }
+
+  h5 {
+    color:#0dac44;
+    margin-top:40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+  }
+
+  p {
+
+    
+    margin-top:10px;
+    line-height: 150%;
+    font-size: 22px;
+
+  }
+
+  .navbar-brand img {
+   width: 70px;
+   margin: 0px 100px;
+  }
+
+  .nav-item {
+    margin: 0px 25px;
+  }
+
+  .nav-item1 {
+    margin: 0px 300px;
+    margin-top: 25px;
+    margin-left: 100px;
+  }
+
+  .nav-link {
+    margin: 0px 40px;
+    font-size: large;
+    font-weight:500;
+    color: #0ba13f;
+  }
+
+  .jumbotron {
+   background-image: url("../images/cristo-hero.png"); 
+    background-size: cover;
+    /* background-repeat: no-repeat; */
+    height: calc(60vh - 25px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+ 
+
+  .jumboCopy {
+    width: 70%;
+    min-width: 500px;
+    max-width: 700px;
+    color: rgb(6, 6, 6);
+    text-align: center;
+  }
+
+  .cardContainer {
+    margin-bottom: 70px;
+    text-align: center;
+  }
+  .card {
+    margin: 0px, 50px;
+  }  
+
+ 
+  .btn-primary{ 
+    background-color: rgb(238, 234, 9);
+    font-weight: 700;
+    color: black;
+  }
+  
+  .card-text {
+    font-size: 18px;
+
+
+  }
+
+  #subscribe {
+    color:black;
+    text-align: center;
+    background-size: cover;
+}
+#subscribe h2 {
+  margin-bottom:30px;
+
+}
+
+#subscribe p{
+  margin-bottom:30px;
+
+}
+
+#subscribe .form-container {
+  padding-top: 400px;
+  padding-bottom: 50px;
+
+
+}
+
+#subscribe form {
+  display: flex;
+  justify-content: center;
+}
+#subscribe input {
+  height:50px;
+  border-radius: 0;
+  width:60%;
+  margin-right:20px !important;
+
+}
+
